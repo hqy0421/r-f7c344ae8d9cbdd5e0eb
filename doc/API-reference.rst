@@ -229,6 +229,16 @@ Building design matrices
 
 .. autofunction:: build_design_matrices
 
+Migrating fitted models to a revised categorical dictionary
+-----------------------------------------------------------
+
+.. autofunction:: migrate_design
+
+.. autofunction:: migrate_design_info
+
+.. autoclass:: MigratedDesign
+   :members:
+
 Missing values
 --------------
 
